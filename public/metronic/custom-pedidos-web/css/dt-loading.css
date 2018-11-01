@@ -1,0 +1,26 @@
+.dataTables_wrapper .dataTables_processing {
+    width: 320px;
+    display: inline-block;
+    padding: 10px;
+    left: 40%;
+    margin-left: -100px;
+    margin-top: 20px;
+    text-align: center;
+    color: #3f444a;
+    border: 1px solid #e7ecf1;
+    background: #eef1f5;
+	border-radius: 90px;
+    vertical-align: middle;
+    -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1); 
+}
+
+th { 
+    font-size: 11px !important; 
+}
+
+td { 
+    padding: 6px 10px !important;
+    font-size: 13px !important; 
+}  
